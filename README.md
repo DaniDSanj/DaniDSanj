@@ -1,4 +1,4 @@
-### Dani Díaz Sanjurjo
+### Daniel Díaz Sanjurjo
 
 Product Manager & BI Lead en Madrid. Más de 7 años en Business Intelligence con Power BI, SQL Server y Python. Ahora trabajo en la migración del reporting a Microsoft Fabric.
 
